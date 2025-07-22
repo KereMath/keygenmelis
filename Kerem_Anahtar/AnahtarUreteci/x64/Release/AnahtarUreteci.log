@@ -1,0 +1,20 @@
+﻿  aes.cpp
+C:\Users\J.A.R.V.I.S\Desktop\Kerem_Anahtar\AnahtarUreteci\aes.cpp(190,17): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+C:\Users\J.A.R.V.I.S\Desktop\Kerem_Anahtar\AnahtarUreteci\aes.cpp(190,17): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\J.A.R.V.I.S\Desktop\Kerem_Anahtar\AnahtarUreteci\aes.cpp(190,17): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\J.A.R.V.I.S\Desktop\Kerem_Anahtar\AnahtarUreteci\aes.cpp(190,17): message : this argument is used as a buffer size
+C:\Users\J.A.R.V.I.S\Desktop\Kerem_Anahtar\AnahtarUreteci\aes.cpp(98,8): warning C4101: 'fptemp': unreferenced local variable
+  present.cpp
+C:\Users\J.A.R.V.I.S\Desktop\Kerem_Anahtar\AnahtarUreteci\present.cpp(85,41): warning C4244: 'argument': conversion from 'bit64' to 'bit32', possible loss of data
+C:\Users\J.A.R.V.I.S\Desktop\Kerem_Anahtar\AnahtarUreteci\present.cpp(85,29): warning C4244: 'argument': conversion from 'bit64' to 'bit32', possible loss of data
+C:\Users\J.A.R.V.I.S\Desktop\Kerem_Anahtar\AnahtarUreteci\present.cpp(210,17): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+C:\Users\J.A.R.V.I.S\Desktop\Kerem_Anahtar\AnahtarUreteci\present.cpp(210,17): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\J.A.R.V.I.S\Desktop\Kerem_Anahtar\AnahtarUreteci\present.cpp(210,17): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\J.A.R.V.I.S\Desktop\Kerem_Anahtar\AnahtarUreteci\present.cpp(210,17): message : this argument is used as a buffer size
+  random.cpp
+  Generating code
+  Compiler switch has changed, fall back to full compilation.
+C:\Users\J.A.R.V.I.S\Desktop\Kerem_Anahtar\AnahtarUreteci\KeyGenerator.cpp(533): warning C4715: 'hex_char_to_bin': not all control paths return a value
+  All 723 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AnahtarUreteci.vcxproj -> C:\Users\J.A.R.V.I.S\Desktop\Kerem_Anahtar\x64\Release\AnahtarUreteci.exe
